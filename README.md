@@ -1,14 +1,12 @@
 <div align="center">
   <h1>Hi! I'm Teresa 👩‍💻</h1>
   <div style="background-color: #f4f4f4; padding: 10px;">
-    <p style="font-size: 18px; font-weight: bold;">Connect with me
     <a href="https://www.linkedin.com/in/teresa-sousa/" target="_blank">
+      Connect with me
       <button>
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="24px" height="24px">
       </button>
-    </a>
-    </p>
-    
+    </a> 
   </div>
 </div>
 
