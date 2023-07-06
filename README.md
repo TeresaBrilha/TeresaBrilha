@@ -59,9 +59,17 @@
   </a>
 </p>
 
-[![Docker Icon](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) 
-[![MySQL Icon](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
-[![Git Icon](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=vuejs" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
 
 ## Penetration Testing Skills
 
