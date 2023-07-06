@@ -15,7 +15,12 @@ I am a passionate learner and developer in the field of cybersecurity, with a pa
 [![C# Icon](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java Icon](https://skillicons.dev/icons?i=java)](https://www.java.com/)
 [![JavaScript Icon](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **Security Tools Development**: Intrusion Detection System.
+
+[![.NET Icon](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) 
+[![Vue.js Icon](https://skillicons.dev/icons?i=vuejs)](https://vuejs.org/) 
+[![Laravel Icon](https://skillicons.dev/icons?i=laravel)](https://laravel.com/) 
+[![Flutter Icon](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+
 
 ## Contact
 
