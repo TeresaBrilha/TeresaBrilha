@@ -10,7 +10,7 @@ I am a passionate learner and developer in the field of cybersecurity, with a pa
 
 ## Skills
 
-- **Programming Languages**: Python, C, C#, Java and Javascript.
+[![Programming Languages](https://skillicons.dev/icons?i=python,c,cs,java,js)](https://skillicons.dev)
 - **Security Tools Development**: Intrusion Detection System.
 
 ## Contact
