@@ -106,13 +106,6 @@
   </table>
 </div>
 
-<style>
-  .link {
-    text-decoration: none;
-    color: inherit;
-  }
-</style>
-
 
 
 
