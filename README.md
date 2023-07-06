@@ -43,51 +43,34 @@
 
 ## Penetration Testing Skills
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: center;
-  }
-
-  th, td {
-    padding: 10px;
-    border: 1px solid #ddd;
-  }
-
-  th {
-    background-color: #f5f5f5;
-  }
-</style>
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Tools</th>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #f5f5f5;">
+    <th style="padding: 10px;">Category</th>
+    <th style="padding: 10px;">Tools</th>
   </tr>
   <tr>
-    <td>Operating System</td>
-    <td>Kali Linux</td>
+    <td style="padding: 10px; text-align: center;">Operating System</td>
+    <td style="padding: 10px; text-align: center;">Kali Linux</td>
   </tr>
   <tr>
-    <td>Scanning Tools</td>
-    <td>Nmap<br>NetDiscover</td>
+    <td style="padding: 10px; text-align: center;">Scanning Tools</td>
+    <td style="padding: 10px; text-align: center;">Nmap<br>NetDiscover</td>
   </tr>
   <tr>
-    <td>Sniffing Tools</td>
-    <td>Wireshark<br>NetworkMiner</td>
+    <td style="padding: 10px; text-align: center;">Sniffing Tools</td>
+    <td style="padding: 10px; text-align: center;">Wireshark<br>NetworkMiner</td>
   </tr>
   <tr>
-    <td>Enumeration Tools</td>
-    <td>NetCat<br>Legion</td>
+    <td style="padding: 10px; text-align: center;">Enumeration Tools</td>
+    <td style="padding: 10px; text-align: center;">NetCat<br>Legion</td>
   </tr>
   <tr>
-    <td>Exploit Analysis</td>
-    <td>Zaproxy<br>Nessus<br>OpenVAS</td>
+    <td style="padding: 10px; text-align: center;">Exploit Analysis</td>
+    <td style="padding: 10px; text-align: center;">Zaproxy<br>Nessus<br>OpenVAS</td>
   </tr>
   <tr>
-    <td>Exploits Exploration</td>
-    <td>Hashcat<br>Metasploit<br>BurpSuite</td>
+    <td style="padding: 10px; text-align: center;">Exploits Exploration</td>
+    <td style="padding: 10px; text-align: center;">Hashcat<br>Metasploit<br>BurpSuite</td>
   </tr>
 </table>
 
