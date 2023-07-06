@@ -44,7 +44,6 @@
 ## Penetration Testing Skills
 
 <div style="text-align: center;">
-  <table>
           Category                | Tools
       ----------------------- | --------------------------
       Operating System        | Kali Linux
@@ -53,7 +52,6 @@
       Enumeration Tools       | NetCat, Legion
       Exploit Analysis        | Zaproxy, Nessus, OpenVAS
       Exploits Exploration    | Hashcat, Metasploit, BurpSuite
-  </table>
 </div>
 
 
