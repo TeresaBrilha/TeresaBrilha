@@ -15,7 +15,7 @@
 
 ## About Me 🔎
 
-- I am a passionate learner and developer in the field of cybersecurity, with a particular focus on security tools development and penetration tests execution. I'm still in a early stage of my career and have a lot to learn, however, my curiosity drive me to create new personal projects so I can aquire more pratical experience. With that in mind I hope I can share with you my current projects and join me on this journey of growth and discovery.
+- I am a passionate learner in the field of cybersecurity, with a particular focus on security tools development and penetration tests execution. I'm still in a early stage of my career and have a lot to learn, however, my curiosity drive me to create new personal projects so I can aquire more pratical experience. With that in mind I hope I can share with you my current projects and join me on this journey of growth and discovery.
 
 - Feel free to connect with me to discuss security tools development, share ideas, or collaborate on exciting projects!
 
