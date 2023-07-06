@@ -44,16 +44,20 @@
   </a>
 </p>
 
-[![Python Icon](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![C Icon](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C# Icon](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Java Icon](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![JavaScript Icon](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![.NET Icon](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) 
-[![Vue.js Icon](https://skillicons.dev/icons?i=vuejs)](https://vuejs.org/) 
-[![Laravel Icon](https://skillicons.dev/icons?i=laravel)](https://laravel.com/) 
-[![Flutter Icon](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://skillicons.dev/icons?i=vuejs" />
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+</p>
 
 [![Docker Icon](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) 
 [![MySQL Icon](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
