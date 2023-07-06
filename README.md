@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td>Operating System</td>
-      <td>Kali Linux, Ubuntu</td>
+      <td>Kali Linux</td>
     </tr>
     <tr>
       <td>Scanning Tools</td>
