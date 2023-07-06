@@ -43,36 +43,24 @@
 
 ## Penetration Testing Skills
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr style="background-color: #f5f5f5;">
-    <th style="padding: 10px;">Category</th>
-    <th style="padding: 10px;">Tools</th>
-  </tr>
-  <tr>
-    <td style="padding: 10px; text-align: center;">Operating System</td>
-    <td style="padding: 10px; text-align: center;">Kali Linux</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; text-align: center;">Scanning Tools</td>
-    <td style="padding: 10px; text-align: center;">Nmap<br>NetDiscover</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; text-align: center;">Sniffing Tools</td>
-    <td style="padding: 10px; text-align: center;">Wireshark<br>NetworkMiner</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; text-align: center;">Enumeration Tools</td>
-    <td style="padding: 10px; text-align: center;">NetCat<br>Legion</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; text-align: center;">Exploit Analysis</td>
-    <td style="padding: 10px; text-align: center;">Zaproxy<br>Nessus<br>OpenVAS</td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; text-align: center;">Exploits Exploration</td>
-    <td style="padding: 10px; text-align: center;">Hashcat<br>Metasploit<br>BurpSuite</td>
-  </tr>
-</table>
+╔══════════════════════╗
+║      Category        ║      Tools         ║
+╠══════════════════════╣
+║  Operating System    ║    Kali Linux      ║
+║  Scanning Tools      ║    Nmap            ║
+║                      ║    NetDiscover     ║
+║  Sniffing Tools      ║    Wireshark       ║
+║                      ║    NetworkMiner    ║
+║  Enumeration Tools   ║    NetCat          ║
+║                      ║    Legion          ║
+║  Exploit Analysis    ║    Zaproxy         ║
+║                      ║    Nessus          ║
+║                      ║    OpenVAS         ║
+║  Exploits Exploration║    Hashcat         ║
+║                      ║    Metasploit      ║
+║                      ║    BurpSuite       ║
+╚══════════════════════╝
+
 
 
 
