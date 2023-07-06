@@ -22,7 +22,7 @@
 
 ## Projects 🚀
 
-- **Intrusion Detection System**: I developed an Intrusion Detection System (IDS) as my first security tool. This IDS utilizes a JSON rules file to analyze each packet circulating on the network and identify any suspicious behavior based on predefined rules. For instance, it detects patterns such as an unusually high number of requests to a single port or the download of .exe files. When a suspicious activity is detected, the IDS triggers an alert, enabling prompt action to mitigate potential threats.
+- **Intrusion Detection System**: I developed an Intrusion Detection System (IDS) as my first security tool. This IDS utilizes a JSON rules file to analyze each packet circulating on the network and identify any suspicious behavior based on predefined rules. For instance, it detects patterns such as an unusually high number of requests to a single port or the download of .exe files. When a suspicious activity is detected, the IDS triggers an alert, enabling prompt action to mitigate potential threats. See the [repository](https://github.com/TeresaBrilha/IDS_RuleBased) for more details.
 
 ## Development Skills 💻
 
