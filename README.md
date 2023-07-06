@@ -81,30 +81,38 @@
     </tr>
     <tr>
       <td>Operating System</td>
-      <td><a style="text-decoration: none; color: inherit;" href="https://www.kali.org/">Kali Linux</a></td>
+      <td><a class="link" href="https://www.kali.org/">Kali Linux</a></td>
     </tr>
     <tr>
       <td>Scanning Tools</td>
-      <td><a style="text-decoration: none; color: inherit;" href="https://nmap.org/">Nmap</a>, <a style="text-decoration: none; color: inherit;" href="https://www.kali.org/tools/netdiscover/#:~:text=Netdiscover%20is%20an%20active%2Fpassive,used%20on%20hub%2Fswitched%20networks.">NetDiscover</a></td>
+      <td><a class="link" href="https://nmap.org/">Nmap</a>, <a class="link" href="https://www.kali.org/tools/netdiscover/#:~:text=Netdiscover%20is%20an%20active%2Fpassive,used%20on%20hub%2Fswitched%20networks.">NetDiscover</a></td>
     </tr>
     <tr>
       <td>Sniffing Tools</td>
-      <td><a style="text-decoration: none; color: inherit;" href="https://www.wireshark.org/">Wireshark</a>, <a style="text-decoration: none; color: inherit;" href="https://www.netresec.com/?page=NetworkMiner">NetworkMiner</a></td>
+      <td><a class="link" href="https://www.wireshark.org/">Wireshark</a>, <a class="link" href="https://www.netresec.com/?page=NetworkMiner">NetworkMiner</a></td>
     </tr>
     <tr>
       <td>Enumeration Tools</td>
-      <td><a style="text-decoration: none; color: inherit;" href="https://www.kali.org/tools/netcat/">NetCat</a>, <a style="text-decoration: none; color: inherit;" href="https://www.kali.org/tools/legion/">Legion</a></td>
+      <td><a class="link" href="https://www.kali.org/tools/netcat/">NetCat</a>, <a class="link" href="https://www.kali.org/tools/legion/">Legion</a></td>
     </tr>
     <tr>
       <td>Exploit Analysis</td>
-      <td><a style="text-decoration: none; color: inherit;" href="https://www.zaproxy.org/">Zaproxy</a>, <a style="text-decoration: none; color: inherit;" href="https://www.tenable.com/products/nessus-vulnerability-scanner">Nessus</a>, <a style="text-decoration: none; color: inherit;" href="https://www.openvas.org/">OpenVAS</a></td>
+      <td><a class="link" href="https://www.zaproxy.org/">Zaproxy</a>, <a class="link" href="https://www.tenable.com/products/nessus-vulnerability-scanner">Nessus</a>, <a class="link" href="https://www.openvas.org/">OpenVAS</a></td>
     </tr>
     <tr>
       <td>Exploits Exploration</td>
-      <td><a style="text-decoration: none; color: inherit;" href="https://hashcat.net/hashcat/">Hashcat</a>, <a style="text-decoration: none; color: inherit;" href="https://www.metasploit.com/">Metasploit</a>, <a style="text-decoration: none; color: inherit;" href="https://portswigger.net/burp">BurpSuite</a></td>
+      <td><a class="link" href="https://hashcat.net/hashcat/">Hashcat</a>, <a class="link" href="https://www.metasploit.com/">Metasploit</a>, <a class="link" href="https://portswigger.net/burp">BurpSuite</a></td>
     </tr>
   </table>
 </div>
+
+<style>
+  .link {
+    text-decoration: none;
+    color: inherit;
+  }
+</style>
+
 
 
 
