@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td>Operating System</td>
-      <td><span style="text-decoration: none; color: inherit;"><a href="https://www.kali.org/">Kali Linux</a></span></td>
+      <td><span style="text-decoration: none !important; color: inherit !important;"><a href="https://www.kali.org/">Kali Linux</a></span></td>
     </tr>
     <tr>
       <td>Scanning Tools</td>
