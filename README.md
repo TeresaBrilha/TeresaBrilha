@@ -1,14 +1,27 @@
-<div align="center">
-  <h1>Hi! I'm Teresa 👩‍💻</h1>
-  <div style="background-color: #f4f4f4; padding: 10px;">
-    <a href="https://www.linkedin.com/in/teresa-sousa/" target="_blank">
-      Connect with me
-      <button>
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="24px" height="24px">
-      </button>
-    </a> 
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Buttons core css -->
+  <link rel="stylesheet" href="css/buttons.css">
+
+  <!-- Only needed if you want support for dropdown menus -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript" src="js/buttons.js"></script>
+
+  <!-- Only needed if you want font icons -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" rel="stylesheet">
+</head>
+<body>
+  <div align="center">
+    <h1>Hi! I'm Teresa 👩‍💻</h1>
+    <a href="https://www.linkedin.com/in/teresa-sousa/" target="_blank" class="button button-pill button-primary">
+      <span class="button-icon"><i class="fa fa-linkedin"></i></span>
+      Connect with me on LinkedIn
+    </a>
   </div>
-</div>
+</body>
+</html>
+
 
 
 ## About Me
