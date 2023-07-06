@@ -43,15 +43,22 @@
 
 ## Penetration Testing Skills
 
-- Kali Linux
-- Wireshark
-- Nmap
-- NetCat
-- Hashcat
-- Zaproxy
-- Legion
-- Burp Suite
-- Nessus
-- OpenVAS
-- Metasploit
+<details>
+  <summary><strong>Click to Expand</strong></summary>
+  <br>
+
+  - Kali Linux
+  - Wireshark
+  - Nmap
+  - NetCat
+  - Hashcat
+  - Zaproxy
+  - Legion
+  - Burp Suite
+  - Nessus
+  - OpenVAS
+  - Metasploit
+
+</details>
+
 
