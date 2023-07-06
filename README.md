@@ -33,6 +33,15 @@
   <a href="https://en.wikipedia.org/wiki/C">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
 </p>
 
 [![Python Icon](https://skillicons.dev/icons?i=python)](https://www.python.org/)
