@@ -43,78 +43,14 @@
 
 ## Penetration Testing Skills
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: center;
-  }
-
-  th,
-  td {
-    padding: 10px;
-    border: 1px solid #ddd;
-  }
-
-  th {
-    background-color: #f5f5f5;
-  }
-</style>
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td rowspan="2">Operating System</td>
-    <td>Kali Linux</td>
-  </tr>
-  <tr>
-    <td>Ubuntu</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Scanning Tools</td>
-    <td>Nmap</td>
-  </tr>
-  <tr>
-    <td>NetDiscover</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Sniffing Tools</td>
-    <td>Wireshark</td>
-  </tr>
-  <tr>
-    <td>NetworkMiner</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Enumeration Tools</td>
-    <td>NetCat</td>
-  </tr>
-  <tr>
-    <td>Legion</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Exploit Analysis</td>
-    <td>Zaproxy</td>
-  </tr>
-  <tr>
-    <td>Nessus</td>
-  </tr>
-  <tr>
-    <td>OpenVAS</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Exploits Exploration</td>
-    <td>Hashcat</td>
-  </tr>
-  <tr>
-    <td>Metasploit</td>
-  </tr>
-  <tr>
-    <td>BurpSuite</td>
-  </tr>
-</table>
+Category                | Tools
+----------------------- | --------------------------
+Operating System        | Kali Linux, Ubuntu
+Scanning Tools          | Nmap, NetDiscover
+Sniffing Tools          | Wireshark, NetworkMiner
+Enumeration Tools       | NetCat, Legion
+Exploit Analysis        | Zaproxy, Nessus, OpenVAS
+Exploits Exploration    | Hashcat, Metasploit, BurpSuite
 
 
 
