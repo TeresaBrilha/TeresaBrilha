@@ -5,7 +5,6 @@
     <a href="https://www.linkedin.com/in/teresa-sousa/" target="_blank">
       <button>
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="24px" height="24px">
-        LinkedIn
       </button>
     </a>
   </div>
