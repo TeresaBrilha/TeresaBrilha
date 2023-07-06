@@ -81,30 +81,31 @@
     </tr>
     <tr>
       <td>Operating System</td>
-      <td>[Kali Linux](https://www.kali.org/)</td>
+      <td><a class="link" href="https://www.kali.org/">Kali Linux</a></td>
     </tr>
     <tr>
       <td>Scanning Tools</td>
-      <td>[Nmap](https://nmap.org/), [NetDiscover](https://www.kali.org/tools/netdiscover/#:~:text=Netdiscover%20is%20an%20active%2Fpassive,used%20on%20hub%2Fswitched%20networks.)</td>
+      <td><a class="link" href="https://nmap.org/">Nmap</a>, <a class="link" href="https://www.kali.org/tools/netdiscover/#:~:text=Netdiscover%20is%20an%20active%2Fpassive,used%20on%20hub%2Fswitched%20networks.">NetDiscover</a></td>
     </tr>
     <tr>
       <td>Sniffing Tools</td>
-      <td>[Wireshark](https://www.wireshark.org/), [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)</td>
+      <td><a class="link" href="https://www.wireshark.org/">Wireshark</a>, <a class="link" href="https://www.netresec.com/?page=NetworkMiner">NetworkMiner</a></td>
     </tr>
     <tr>
       <td>Enumeration Tools</td>
-      <td>[NetCat](https://www.kali.org/tools/netcat/), [Legion](https://www.kali.org/tools/legion/)</td>
+      <td><a class="link" href="https://www.kali.org/tools/netcat/">NetCat</a>, <a class="link" href="https://www.kali.org/tools/legion/">Legion</a></td>
     </tr>
     <tr>
       <td>Exploit Analysis</td>
-      <td>[Zaproxy](https://www.zaproxy.org/), [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner), [OpenVAS](https://www.openvas.org/)</td>
+      <td><a class="link" href="https://www.zaproxy.org/">Zaproxy</a>, <a class="link" href="https://www.tenable.com/products/nessus-vulnerability-scanner">Nessus</a>, <a class="link" href="https://www.openvas.org/">OpenVAS</a></td>
     </tr>
     <tr>
       <td>Exploits Exploration</td>
-      <td>[Hashcat](https://hashcat.net/hashcat/), [Metasploit](https://www.metasploit.com/), [BurpSuite](https://portswigger.net/burp)</td>
+      <td><a class="link" href="https://hashcat.net/hashcat/">Hashcat</a>, <a class="link" href="https://www.metasploit.com/">Metasploit</a>, <a class="link" href="https://portswigger.net/burp">BurpSuite</a></td>
     </tr>
   </table>
 </div>
+
 
 
 
