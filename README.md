@@ -1,7 +1,16 @@
-<a href="https://www.linkedin.com/in/teresa-sousa/" target="_blank" style="display: inline-block; background-color: #e0e0e0; padding: 8px 16px; border-radius: 6px; color: #0366d6; font-weight: bold; text-decoration: none;">
-  <span style="display: inline-block; width: 120px;">Connect with me</span>
-  <span style="display: inline-block; background-color: #0366d6; color: #fff; padding: 6px 12px; border-radius: 6px;">LinkedIn</span>
-</a>
+<div align="center">
+  <h1>Hi! I'm Teresa 👩‍💻</h1>
+  <div style="background-color: #f4f4f4; padding: 10px;">
+    <p style="font-size: 18px; font-weight: bold;">Connect with me</p>
+    <a href="https://www.linkedin.com/in/teresa-sousa/" target="_blank">
+      <button>
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="24px" height="24px">
+        LinkedIn
+      </button>
+    </a>
+  </div>
+</div>
+
 
 ## About Me
 
