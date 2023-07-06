@@ -43,6 +43,23 @@
 
 ## Penetration Testing Skills
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+
+  th {
+    background-color: #f5f5f5;
+  }
+</style>
+
 <table>
   <tr>
     <th>Category</th>
@@ -73,6 +90,7 @@
     <td>Hashcat<br>Metasploit<br>BurpSuite</td>
   </tr>
 </table>
+
 
 
 
