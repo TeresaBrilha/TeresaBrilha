@@ -43,14 +43,39 @@
 
 ## Penetration Testing Skills
 
-Category                | Tools
------------------------ | --------------------------
-Operating System        | Kali Linux
-Scanning Tools          | Nmap, NetDiscover
-Sniffing Tools          | Wireshark, NetworkMiner
-Enumeration Tools       | NetCat, Legion
-Exploit Analysis        | Zaproxy, Nessus, OpenVAS
-Exploits Exploration    | Hashcat, Metasploit, BurpSuite
+<div align="center">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Tools</th>
+    </tr>
+    <tr>
+      <td>Operating System</td>
+      <td>Kali Linux, Ubuntu</td>
+    </tr>
+    <tr>
+      <td>Scanning Tools</td>
+      <td>Nmap, NetDiscover</td>
+    </tr>
+    <tr>
+      <td>Sniffing Tools</td>
+      <td>Wireshark, NetworkMiner</td>
+    </tr>
+    <tr>
+      <td>Enumeration Tools</td>
+      <td>NetCat, Legion</td>
+    </tr>
+    <tr>
+      <td>Exploit Analysis</td>
+      <td>Zaproxy, Nessus, OpenVAS</td>
+    </tr>
+    <tr>
+      <td>Exploits Exploration</td>
+      <td>Hashcat, Metasploit, BurpSuite</td>
+    </tr>
+  </table>
+</div>
+
 
 
 
