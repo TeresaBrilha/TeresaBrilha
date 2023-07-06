@@ -1,11 +1,13 @@
 <div align="center">
   <h1>Hi! I'm Teresa 👩‍💻</h1>
-  <div style="background-color: #f4f4f4; padding: 10px;">
-    <p style="font-size: 18px; font-weight: bold;">Connect with me</p>
+  <button>
+  <span role="img" aria-label="unicorn">
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="48px" height="48px">
     </a>
-  </div>
+  </span>{" "}
+  Button
+</button>
 </div>
 
 
