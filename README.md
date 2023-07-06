@@ -81,30 +81,31 @@
     </tr>
     <tr>
       <td>Operating System</td>
-      <td><a class="link" href="https://www.kali.org/">Kali Linux</a></td>
+      <td style="text-decoration: none; color: inherit;">Kali Linux</td>
     </tr>
     <tr>
       <td>Scanning Tools</td>
-      <td><a class="link" href="https://nmap.org/">Nmap</a>, <a class="link" href="https://www.kali.org/tools/netdiscover/#:~:text=Netdiscover%20is%20an%20active%2Fpassive,used%20on%20hub%2Fswitched%20networks.">NetDiscover</a></td>
+      <td style="text-decoration: none; color: inherit;">Nmap, NetDiscover</td>
     </tr>
     <tr>
       <td>Sniffing Tools</td>
-      <td><a class="link" href="https://www.wireshark.org/">Wireshark</a>, <a class="link" href="https://www.netresec.com/?page=NetworkMiner">NetworkMiner</a></td>
+      <td style="text-decoration: none; color: inherit;">Wireshark, NetworkMiner</td>
     </tr>
     <tr>
       <td>Enumeration Tools</td>
-      <td><a class="link" href="https://www.kali.org/tools/netcat/">NetCat</a>, <a class="link" href="https://www.kali.org/tools/legion/">Legion</a></td>
+      <td style="text-decoration: none; color: inherit;">NetCat, Legion</td>
     </tr>
     <tr>
       <td>Exploit Analysis</td>
-      <td><a class="link" href="https://www.zaproxy.org/">Zaproxy</a>, <a class="link" href="https://www.tenable.com/products/nessus-vulnerability-scanner">Nessus</a>, <a class="link" href="https://www.openvas.org/">OpenVAS</a></td>
+      <td style="text-decoration: none; color: inherit;">Zaproxy, Nessus, OpenVAS</td>
     </tr>
     <tr>
       <td>Exploits Exploration</td>
-      <td><a class="link" href="https://hashcat.net/hashcat/">Hashcat</a>, <a class="link" href="https://www.metasploit.com/">Metasploit</a>, <a class="link" href="https://portswigger.net/burp">BurpSuite</a></td>
+      <td style="text-decoration: none; color: inherit;">Hashcat, Metasploit, BurpSuite</td>
     </tr>
   </table>
 </div>
+
 
 
 
