@@ -64,7 +64,7 @@
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=vuejs" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
