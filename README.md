@@ -8,7 +8,7 @@ I am a passionate learner and developer in the field of cybersecurity, with a pa
 
 - **Intrusion Detection System**: I developed an Intrusion Detection System (IDS) as my first security tool. This IDS utilizes a JSON rules file to analyze each packet circulating on the network and identify any suspicious behavior based on predefined rules. For instance, it detects patterns such as an unusually high number of requests to a single port or the download of .exe files. When a suspicious activity is detected, the IDS triggers an alert, enabling prompt action to mitigate potential threats.
 
-## Skills
+## Development Skills
 
 [![Python Icon](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![C Icon](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -20,6 +20,12 @@ I am a passionate learner and developer in the field of cybersecurity, with a pa
 [![Vue.js Icon](https://skillicons.dev/icons?i=vuejs)](https://vuejs.org/) 
 [![Laravel Icon](https://skillicons.dev/icons?i=laravel)](https://laravel.com/) 
 [![Flutter Icon](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+
+[![Docker Icon](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) 
+[![MySQL Icon](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
+[![Git Icon](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+## Penetration Tests Skills
 
 
 ## Contact
