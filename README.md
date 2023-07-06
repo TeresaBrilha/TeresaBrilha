@@ -81,27 +81,27 @@
     </tr>
     <tr>
       <td>Operating System</td>
-      <td><a href="https://www.kali.org/">Kali Linux</a></td>
+      <td><a style="text-decoration: none; color: inherit;" href="https://www.kali.org/">Kali Linux</a></td>
     </tr>
     <tr>
       <td>Scanning Tools</td>
-      <td><a href="https://nmap.org/">Nmap</a>, <a href="https://github.com/alexxy/netdiscover">NetDiscover</a></td>
+      <td><a style="text-decoration: none; color: inherit;" href="https://nmap.org/">Nmap</a>, <a style="text-decoration: none; color: inherit;" href="https://www.kali.org/tools/netdiscover/#:~:text=Netdiscover%20is%20an%20active%2Fpassive,used%20on%20hub%2Fswitched%20networks.">NetDiscover</a></td>
     </tr>
     <tr>
       <td>Sniffing Tools</td>
-      <td><a href="https://www.wireshark.org/">Wireshark</a>, <a href="https://www.netresec.com/?page=NetworkMiner">NetworkMiner</a></td>
+      <td><a style="text-decoration: none; color: inherit;" href="https://www.wireshark.org/">Wireshark</a>, <a style="text-decoration: none; color: inherit;" href="https://www.netresec.com/?page=NetworkMiner">NetworkMiner</a></td>
     </tr>
     <tr>
       <td>Enumeration Tools</td>
-      <td><a href="https://eternallybored.org/misc/netcat/">NetCat</a>, <a href="https://github.com/carlospolop/legion">Legion</a></td>
+      <td><a style="text-decoration: none; color: inherit;" href="https://www.kali.org/tools/netcat/">NetCat</a>, <a style="text-decoration: none; color: inherit;" href="https://www.kali.org/tools/legion/">Legion</a></td>
     </tr>
     <tr>
       <td>Exploit Analysis</td>
-      <td><a href="https://www.zaproxy.org/">Zaproxy</a>, <a href="https://www.tenable.com/products/nessus-vulnerability-scanner">Nessus</a>, <a href="https://www.openvas.org/">OpenVAS</a></td>
+      <td><a style="text-decoration: none; color: inherit;" href="https://www.zaproxy.org/">Zaproxy</a>, <a style="text-decoration: none; color: inherit;" href="https://www.tenable.com/products/nessus-vulnerability-scanner">Nessus</a>, <a style="text-decoration: none; color: inherit;" href="https://www.openvas.org/">OpenVAS</a></td>
     </tr>
     <tr>
       <td>Exploits Exploration</td>
-      <td><a href="https://hashcat.net/hashcat/">Hashcat</a>, <a href="https://www.metasploit.com/">Metasploit</a>, <a href="https://portswigger.net/burp">BurpSuite</a></td>
+      <td><a style="text-decoration: none; color: inherit;" href="https://hashcat.net/hashcat/">Hashcat</a>, <a style="text-decoration: none; color: inherit;" href="https://www.metasploit.com/">Metasploit</a>, <a style="text-decoration: none; color: inherit;" href="https://portswigger.net/burp">BurpSuite</a></td>
     </tr>
   </table>
 </div>
