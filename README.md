@@ -1,4 +1,4 @@
-# Hi! Welcome to my profile.
+# Hi! I'm Teresa 👩‍💻
 
 ## About Me
 
@@ -25,8 +25,19 @@ I am a passionate learner and developer in the field of cybersecurity, with a pa
 [![MySQL Icon](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
 [![Git Icon](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
-## Penetration Tests Skills
+## Penetration Testing Skills
 
+- Kali Linux
+- Wireshark
+- Nmap
+- NetCat
+- Hashcat
+- Zaproxy
+- Legion
+- Burp Suite
+- Nessus
+- OpenVAS
+- Metasploit
 
 ## Contact
 
