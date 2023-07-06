@@ -20,11 +20,11 @@
 - Feel free to connect with me to discuss security tools development, share ideas, or collaborate on exciting projects!
 
 
-## Projects
+## Projects 🚀
 
 - **Intrusion Detection System**: I developed an Intrusion Detection System (IDS) as my first security tool. This IDS utilizes a JSON rules file to analyze each packet circulating on the network and identify any suspicious behavior based on predefined rules. For instance, it detects patterns such as an unusually high number of requests to a single port or the download of .exe files. When a suspicious activity is detected, the IDS triggers an alert, enabling prompt action to mitigate potential threats.
 
-## Development Skills
+## Development Skills 💻
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -71,7 +71,7 @@
   </a>
 </p>
 
-## Penetration Testing Skills
+## Penetration Testing Skills 🔐
 
 <div align="center">
   <table>
